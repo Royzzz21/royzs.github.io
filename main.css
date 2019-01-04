@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
-@import url("font-awesome.min.css");
+@import url("https://use.fontawesome.com/releases/v5.6.3/css/all.css");
 
 /*
 	Aerial by HTML5 UP
@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #1B2732 url("george-hiles-114418.jpg") bottom left;
+		background: #1B2732 url("360-panorama-matador-seo.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
